@@ -14,14 +14,14 @@
    * Status 버튼  - 2. Status 보기
    * Inventory 버튼  - 3. Inventory 보기
 
-   ![image-20230921172551455](C:\Users\yejun\AppData\Roaming\Typora\typora-user-images\image-20230921172551455.png)
+   ![image-20230921172542530](F:\Unity\SpartaDungeon\README\image-20230921172542530.png)
 
 2. Status 보기
 
    1. 우측에 캐릭터 정보 표현
    2. 뒤로가기 버튼을 누르면 1번 화면으로 이동
 
-   ![image-20230921172635905](C:\Users\yejun\AppData\Roaming\Typora\typora-user-images\image-20230921172635905.png)
+   ![image-20230921172635905](F:\Unity\SpartaDungeon\README\image-20230921172635905.png)
 
 3. Inventory 보기
 
@@ -35,7 +35,7 @@
 
    - 뒤로가기 버튼을 누르면 1번 화면으로 이동
 
-   ![image-20230921172713968](C:\Users\yejun\AppData\Roaming\Typora\typora-user-images\image-20230921172713968.png)
+   ![image-20230921172713968](F:\Unity\SpartaDungeon\README\image-20230921172713968.png)
 
 
 
@@ -43,4 +43,4 @@
 
 1. 아이템 장착 팝업 업그레이드
 
-![image-20230921172750787](C:\Users\yejun\AppData\Roaming\Typora\typora-user-images\image-20230921172750787.png)
+![image-20230921172750787](F:\Unity\SpartaDungeon\README\image-20230921172750787.png)
